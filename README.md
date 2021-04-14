@@ -89,18 +89,21 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |  
 
 
+## Ultra high end NVME drives [$160+ 1TB] [$300+ 2TB]
+### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications and burning money
 
-Ultra high end NVME drives [$160+ 1TB] [$300+ 2TB]
-For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications and burning money
-Samsung 970 pro (Samsung phoenix) [2 BIT MLC NAND]
-WD black SN850 (WD in house) 
-Sabrent rocket 4 plus (Phison E18)
-Corsair MP600 Pro (Phison E18)
-Inland performance plus (Phison E18)
-Samsung 980 pro (Samsung elpis)
-Intel optane 905P (INTEL 7 CHANNEL CONTROLLER TRADEMARK) [AIC][3DXPOINT][BIG PRICE TAG][BALLERS ONLY]
+ | Name                                      | Controller                             | Notes                            |
+ | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+ | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
+ | WD black SN850                            | WD in house                            | -------------------------------- |  
+ | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
+ | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
+ | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
+ | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
+ | Intel optane 905P                         | INTEL 7 CHANNEL CONTROLLER TRADEMARK   | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
 
-GAMEZOID OUT
+
+# GAMEZOID OUT
 
 
 

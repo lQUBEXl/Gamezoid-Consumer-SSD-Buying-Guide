@@ -13,7 +13,7 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
-#For -->gamers<-- and budget workstation/productivity applications.
+# For -->gamers<-- and budget workstation/productivity applications.
   | Kingston A2000 (SM2263) |
   | Crucial P1 (SM2263) [QLC NAND] |
   | HP EX900 (SM2263XT) [DRAMLESS+HMB] |

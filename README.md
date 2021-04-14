@@ -8,9 +8,6 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
 **!IF YOU ARE NOT FOLLOWING THESE INSTSTRUCTIONS YOU ARE NOT USING THE GUIDE PROPERLY!**
 
-*()=Controller
-*[]=Notes
-
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
 ### For -->gamers<-- and budget workstation/productivity applications.

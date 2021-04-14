@@ -55,18 +55,18 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA SX8200 PRO (SM2262)                 | SM2262ENG                              | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
   | Intel 760P                                | SM2262                                 | -------------------------------- |
-  | Silicon power P34A80                      | SM2262                                 | -------------------------------- |
+  | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
   | HP EX920                                  | SM2262                                 | -------------------------------- |
   | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
-  | Mushkin pilot E                           | SM2262EN                               | -------------------------------- |
+  | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
   | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
   | Team MP34                                 | Phison E12                             | -------------------------------- |
-  |  PNY CS3030                               | Phison E12                             | -------------------------------- |
+  | PNY CS3030                                | Phison E12                             | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
-  | Sabrent rocket                            | Phison E12                             | -------------------------------- |
+  | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | -------------------------------- |
   | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
   | Samsung 980 Evo                           | Samsung Pablo                          | DRAMLESS+HMB                     |
@@ -75,15 +75,19 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
-SK Hynix P31 gold (SK Hynix Cepheus) [4D NAND MEME]
-SK Hynix P31 platinum (SK Hynix Cepheus) [4D NAND MEME]
-WD black SN750 (WD in house)
-Samsung 970 evo plus (Samsung phoenix)
-[NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category]
-Sabrent rocket 4.0 (Phison E16)
-Corsair MP600 (Phison E16)
-Aorus gen 4 (Phison E16)
-Seagate Firecuda 520 (Phison E16)
+
+NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category
+
+  | Name                                      | Controller                             | Notes                            |
+  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | SK Hynix P31 gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
+  | SK Hynix P31 platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |
+  | WD black SN750                            | WD in house                            | -------------------------------- |     
+  | Samsung 970 evo plus                      | Samsung phoenix                        | -------------------------------- |  
+  | Sabrent rocket 4.0                        | Phison E16                             | -------------------------------- |  
+  | Corsair MP600                             | Phison E16                             | -------------------------------- |  
+  | Aorus gen 4                               | Phison E16                             | -------------------------------- |  
+  | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |  
 
 
 

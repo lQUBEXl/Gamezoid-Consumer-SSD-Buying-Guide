@@ -52,7 +52,7 @@ The following guide is not writen by me (only formatted); however, I thought it 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | ADATA SX8200 PRO                          | SM2262ENG                              | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
+  | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
   | Intel 760P                                | SM2262                                 | -------------------------------- |
   | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
   | HP EX920                                  | SM2262                                 | -------------------------------- |

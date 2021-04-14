@@ -13,6 +13,18 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
+# Simplified Component List
+  | Primary Side            |:-:|
+  | :-:                     |:-:|
+  | Transient Filter        | 3x Y ceramic caps, 3x X ceramic caps, 2 CM choke, 1 MOV |
+  | Inrush Protection       | NTC Thermistor & Diode (16A, 250VAC) |
+  | Bridge Rectifier        | TBD |
+  | APFC MOSFETs            | 1x Great Power [GP28S50X-TO247](https://alltransistors.com/pdfdatasheet_champion/gp28s50.pdf) (28A, [15A @ 0.125Ω], 400 V) |
+  | APFC Boost Diode        | 1x Champion Microelectronic [PFCD86G](https://datasheet4u.com/datasheet-pdf/ChampionMicroelectronic/CMPFCD86/pdf.php?id=938654) (8A, 600 V) |
+  | Hold-up Cap             | 1x CapXon (390μF, 420 V, 2000h @ 105 C) |
+  | Main Switchers          | 2x IPS InPower Semiconductor Co. TA20N50A |
+  | Topology                |  Primary Side: Half-Bridge & LLC Resonant Controller & Secondary Side: Synchronous Rectification & DC-DC converters |
+
 ### For -->gamers<-- and budget workstation/productivity applications.
   | Kingston A2000 (SM2263)                                                                        | WD SN500/SN520 (WD in house)[MOSTLY OEM] [DRAMLESS NO HMB] [EXTENDED SRAM CACHE] |
 

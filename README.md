@@ -51,24 +51,26 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 ## Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
-ADATA SX8200 PRO (SM2262) [SCHRODINGERS NAND][BENCHMARKS BEFORE NAND CHANGES INACCURATE]
-Intel 760P (SM2262) 
-Silicon power P34A80 (SM2262)
-HP EX920 (SM2262)
-Kingston KC2000 (SM2262EN)
-Mushkin pilot E (SM2262EN)
-Transcend 220s (SM2262EN)
-Corsair MP510 (Phison E12)
-Seagate Barracuda 510 (Phison E12)
-Seagate Firecuda 510 (Phison E12)
-Team MP34 (Phison E12)
-PNY CS3030 (Phison E12)
-Patriot Viper VPN100 (Phison E12)
-Sabrent rocket (Phison E12)
-Inland Premium (Phison E12) 
-Samsung 970 evo (Samsung Phoenix) 
-Samsung 980 (Samsung Pablo) [DRAMLESS+HMB] 
-Crucial P5 (Micron in house) 
+  | Name                                      | Controller                             | Notes                            |
+  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | ADATA SX8200 PRO (SM2262)                 | SM2262ENG                              | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
+  | Intel 760P                                | SM2262                                 | -------------------------------- |
+  | Silicon power P34A80                      | SM2262                                 | -------------------------------- |
+  | HP EX920                                  | SM2262                                 | -------------------------------- |
+  | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
+  | Mushkin pilot E                           | SM2262EN                               | -------------------------------- |
+  | Transcend 220s                            | SM2262EN                               | -------------------------------- |
+  | Corsair MP510                             | Phison E12                             | -------------------------------- |
+  | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
+  | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
+  | Team MP34                                 | Phison E12                             | -------------------------------- |
+  |  PNY CS3030                               | Phison E12                             | -------------------------------- |
+  | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
+  | Sabrent rocket                            | Phison E12                             | -------------------------------- |
+  | Inland Premium                            | Phison E12                             | -------------------------------- |
+  | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
+  | Samsung 980 Evo                           | Samsung Pablo                          | DRAMLESS+HMB                     |
+  | Crucial P5                                | Micron in house                        | -------------------------------- |
 
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
 

@@ -37,18 +37,18 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | SM2258                                 | -------------------------------- |
-  | Team L5 lite 3D                           | SM2258                                 | -------------------------------- |
-  | Team T-force Vulcan                       | SM2258                                 | -------------------------------- |
-  | Adata SU800 ultimate                      | SM2258                                 | -------------------------------- |
-  | SK hynix S31 gold                         | SK Hynix Quartz                        | -------------------------------- |
-  | Seagate barracuda/firecuda 120            | Phison S12                             | -------------------------------- |
-  | Seagate ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE     |
-  | Samsung 860 evo                           | Samsung MJX                            | -------------------------------- |
-  | Samsung 870 evo                           | Samsung MKX                            | -------------------------------- |
+  | Team L5 Lite 3D                           | SM2258                                 | -------------------------------- |
+  | Team T-Force Vulcan                       | SM2258                                 | -------------------------------- |
+  | Adata SU800 Ultimate                      | SM2258                                 | -------------------------------- |
+  | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
+  | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
+  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE     |
+  | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
+  | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE    |
 
-##Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
+## Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
 ADATA SX8200 PRO (SM2262) [SCHRODINGERS NAND][BENCHMARKS BEFORE NAND CHANGES INACCURATE]

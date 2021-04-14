@@ -3,6 +3,7 @@
 The following guide is not wrriten by me (only formatted); however, I thought it would be great to be able to dimmsentated online (given permission by author of course):
 
 `GAMEZOID HERE`
+
 `ESTIMATED "SHOULD BE" PRICES ARE IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS BELOW guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE`
 
 `IF YOU ARE NOT FOLLOWING THESE INSTSTRUCTIONS YOU ARE NOT USING THE GUIDE PROPERLY!`

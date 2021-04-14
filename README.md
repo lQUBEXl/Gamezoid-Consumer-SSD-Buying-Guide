@@ -14,35 +14,15 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
 ### For -->gamers<-- and budget workstation/productivity applications.
-  | Primary Side            |:-:|
-  | :-:                     |:-:|
-  | Transient Filter        | 3x Y ceramic caps, 3x X ceramic caps, 2 CM choke, 1 MOV |
-  | Inrush Protection       | NTC Thermistor & Diode (16A, 250VAC) |
-  | Bridge Rectifier        | TBD |
-  | APFC MOSFETs            | 1x Great Power [GP28S50X-TO247](https://alltransistors.com/pdfdatasheet_champion/gp28s50.pdf) (28A, [15A @ 0.125Ω], 400 V) |
-  | APFC Boost Diode        | 1x Champion Microelectronic [PFCD86G](https://datasheet4u.com/datasheet-pdf/ChampionMicroelectronic/CMPFCD86/pdf.php?id=938654) (8A, 600 V) |
-  | Hold-up Cap             | 1x CapXon (390μF, 420 V, 2000h @ 105 C) |
-  | Main Switchers          | 2x IPS InPower Semiconductor Co. TA20N50A |
-  | Topology                |  Primary Side: Half-Bridge & LLC Resonant Controller & Secondary Side: Synchronous Rectification & DC-DC converters |
-
-  | Kingston A2000 (SM2263)                                                                        | WD SN500/SN520 (WD in house)[MOSTLY OEM] [DRAMLESS NO HMB] [EXTENDED SRAM CACHE] |
-
-
-
-  | Crucial P1 (SM2263) [QLC NAND]                                                                        |
-  | HP EX900 (SM2263XT) [DRAMLESS+HMB]                                                                    |
-  | Mushkin helix-L (SM2263XT)[DRAMLESS+HMB]                                                              |
-  | Silicon power P34A60 (SM2263XT) [DRAMLESS+HMB]                                                        |
-  | Patriot P300 (PHISON E13T OR SM2263XT) [DRAMLESS+HMB]                                                 |
-  | HP EX900 (SM2263XT) [DRAMLESS+HMB]                                                                    |
-  | Team MP33 (SM2263XT OR phison E13T) [DRAMLESS+HMB]                                                    |
-  | Team Cardea Zero Z330 (SM2263XT OR PHISON E13T) [DRAMLESS+HMB] [TEAM MP33 WITH GAMER STICKER]         |
-  | Gigabyte NVME V2 (Phison E13T) [DRAMLESS+HMB]                                                         |
-  | Corsair MP400 (Phison E12S) [QLC NAND]                                                                |
-  | Inland Platinum (Phison E12S) [QLC NAND]                                                              |
-  | Sabrent rocket Q(Phison E12S) [QLC NAND]                                                              |
-  | WD blue SN550 (WD in house) [DRAMLESS+WACKY HMB] [EXTENDED SRAM CACHE]                                |
-  | Intel 660/665P (SM2263) [QLC NAND]                                                                    |
+  | Kingston A2000 (SM2263)            | WD SN500/SN520 (WD in house)[MOSTLY OEM] [DRAMLESS NO HMB] [EXTENDED SRAM CACHE]|
+  | Crucial P1 (SM2263) [QLC NAND]                     |HP EX900 (SM2263XT) [DRAMLESS+HMB]|
+  | Mushkin helix-L (SM2263XT)[DRAMLESS+HMB]        | Silicon power P34A60 (SM2263XT) [DRAMLESS+HMB] |
+  | Patriot P300 (PHISON E13T OR SM2263XT) [DRAMLESS+HMB]       | HP EX900 (SM2263XT) [DRAMLESS+HMB]    |
+  | HP EX900 (SM2263XT) [DRAMLESS+HMB]        | Team MP33 (SM2263XT OR phison E13T) [DRAMLESS+HMB] |
+  | Team Cardea Zero Z330 (SM2263XT OR PHISON E13T) [DRAMLESS+HMB] [TEAM MP33 WITH GAMER STICKER]            | Team Cardea Zero Z330 (SM2263XT OR PHISON E13T) [DRAMLESS+HMB] [TEAM MP33 WITH GAMER STICKER] |
+  | Gigabyte NVME V2 (Phison E13T) [DRAMLESS+HMB]        | Corsair MP400 (Phison E12S) [QLC NAND] |
+  |  Inland Platinum (Phison E12S) [QLC NAND]             | Sabrent rocket Q(Phison E12S) [QLC NAND |
+  | Intel 660/665P (SM2263) [QLC NAND]          | TBD |
 
 ### What if I don't have an m.2 slot?
 2.5" SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]

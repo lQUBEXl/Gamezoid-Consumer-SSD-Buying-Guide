@@ -1,6 +1,6 @@
 # Gamezoid-Consumer-SSD-Buying-Guide
 
-The following guide is not wrriten by me (only formatted); however, I thought it would be great to be able to dimmsentated online (given permission by author of course):
+The following guide is not writen by me (only formatted); however, I thought it would be great to be able to dimmsentated online (given permission by author of course):
 
 `GAMEZOID HERE`
 
@@ -32,7 +32,7 @@ The following guide is not wrriten by me (only formatted); however, I thought it
   
   
   
-### What if I don't have an m.2 slot? 2.5" SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
+### What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | SM2258                                 | -------------------------------- |

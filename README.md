@@ -13,7 +13,7 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
-# Simplified Component List
+### For -->gamers<-- and budget workstation/productivity applications.
   | Primary Side            |:-:|
   | :-:                     |:-:|
   | Transient Filter        | 3x Y ceramic caps, 3x X ceramic caps, 2 CM choke, 1 MOV |
@@ -25,7 +25,6 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
   | Main Switchers          | 2x IPS InPower Semiconductor Co. TA20N50A |
   | Topology                |  Primary Side: Half-Bridge & LLC Resonant Controller & Secondary Side: Synchronous Rectification & DC-DC converters |
 
-### For -->gamers<-- and budget workstation/productivity applications.
   | Kingston A2000 (SM2263)                                                                        | WD SN500/SN520 (WD in house)[MOSTLY OEM] [DRAMLESS NO HMB] [EXTENDED SRAM CACHE] |
 
 

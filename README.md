@@ -10,8 +10,9 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 *()=Controller
 *[]=Notes
 
-Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
-For -->gamers<-- and budget workstation/productivity applications.
+## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+
+### For -->gamers<-- and budget workstation/productivity applications.
 Kingston a2000 (SM2263)
 Crucial P1 (SM2263) [QLC NAND]
 HP EX900 (SM2263XT) [DRAMLESS+HMB]
@@ -29,7 +30,7 @@ WD blue SN550 (WD in house) [DRAMLESS+WACKY HMB] [EXTENDED SRAM CACHE]
 Intel 660/665P (SM2263) [QLC NAND]
 WD SN500/SN520 (WD in house)[MOSTLY OEM] [DRAMLESS NO HMB] [EXTENDED SRAM CACHE]
 
-What if I don't have an m.2 slot?
+### What if I don't have an m.2 slot?
 2.5" SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
 Crucial MX500 (SM2258)
 Team L5 lite 3D (SM2258)
@@ -44,8 +45,9 @@ WD Blue 3D (Marvell 88SS1074)
 WD Red 3D (Marvell 88SS1074) [WD BLUE 3D WITH MORE OP SPACE]
 
 
-Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
-For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
+##Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
+
+### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
 ADATA SX8200 PRO (SM2262) [SCHRODINGERS NAND][BENCHMARKS BEFORE NAND CHANGES INACCURATE]
 Intel 760P (SM2262) 
 Silicon power P34A80 (SM2262)
@@ -65,8 +67,9 @@ Samsung 970 evo (Samsung Phoenix)
 Samsung 980 (Samsung Pablo) [DRAMLESS+HMB] 
 Crucial P5 (Micron in house) 
 
-High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
-For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
+## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
+
+### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
 SK Hynix P31 gold (SK Hynix Cepheus) [4D NAND MEME]
 SK Hynix P31 platinum (SK Hynix Cepheus) [4D NAND MEME]
 WD black SN750 (WD in house)

@@ -1,6 +1,6 @@
 # Gamezoid-Consumer-SSD-Buying-Guide
 
-The following guide is not wrriten by me; however, I thought it would be great to be able to dimmsentated online (given permission by author of course):
+The following guide is not wrriten by me (only formatted); however, I thought it would be great to be able to dimmsentated online (given permission by author of course):
 
 ## GAMEZOID HERE
 ESTIMATED "SHOULD BE" PRICES ARE IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS BELOW
@@ -15,29 +15,23 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
 ### For -->gamers<-- and budget workstation/productivity applications.
 
-
-  |  Mushkin helix-L (SM2263XT)[DRAMLESS+HMB]                       | Silicon power P34A60 (SM2263XT) [DRAMLESS+HMB]                                                 |  
-  |  Patriot P300 (PHISON E13T OR SM2263XT) [DRAMLESS+HMB]          | HP EX900 (SM2263XT) [DRAMLESS+HMB]                                                             |
-  |  HP EX900 (SM2263XT) [DRAMLESS+HMB]                             | Team MP33 (SM2263XT OR phison E13T) [DRAMLESS+HMB]                                             | 
-  |  Team Cardea Zero Z330 (SM2263XT OR PHISON E13T) [DRAMLESS+HMB] | Team Cardea Zero Z330 (SM2263XT OR PHISON E13T) [DRAMLESS+HMB] [TEAM MP33 WITH GAMER STICKER]  | 
-  |  Gigabyte NVME V2 (Phison E13T) [DRAMLESS+HMB]                  | Corsair MP400 (Phison E12S) [QLC NAND]                                                         | 
-  |  Inland Platinum (Phison E12S) [QLC NAND]                       | Sabrent Rocket-Q (Phison E12S) [QLC NAND]                                                       | 
-  |  Intel 660/665P (SM2263) [QLC NAND]                             | TBD                                                                                            |
- 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | SN550                                     | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
-  | SN520                                     | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
+  | WD SN550                                  | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
+  | WD SN520                                  | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
   | Kingston A2000                            | SM2663                                 | TLC                              |
   | Crucial P1                                | SM2263                                 | QLC                              |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB                     |
-  |
-  |
-  |
-  |
-  |
-  |  
-  
+  | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
+  | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |
+  | Patriot P300                              | Phison E13T OR SM2263XT                | DRAMLESS+HMB                     |
+  | Team MP33                                 | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
+  | Team Cardea Zero Z330                     | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
+  | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB                     |
+  | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
+  | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
+  | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
+  | Intel 660/665P                            | SM2263                                 | QLC NAND                         |
   
   
   

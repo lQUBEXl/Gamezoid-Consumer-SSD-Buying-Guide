@@ -17,8 +17,8 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD SN550                                  | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
-  | WD SN520                                  | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
+  | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
+  | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
   | Kingston A2000                            | SM2663                                 | TLC                              |
   | Crucial P1                                | SM2263                                 | QLC                              |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB                     |

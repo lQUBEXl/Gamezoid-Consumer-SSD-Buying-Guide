@@ -33,20 +33,20 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
   
   
   
-### What if I don't have an m.2 slot?
-2.5" SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
-Crucial MX500 (SM2258)
-Team L5 lite 3D (SM2258)
-Team T-force Vulcan (SM2258)
-Adata SU800 ultimate (SM2258)
-SK hynix S31 gold (SK Hynix Quartz)
-Seagate barracuda/firecuda 120 (Phison S12)
-Seagate ironwolf 125 (Phison S12) [BARRACUDA WITH MORE OP SPACE]
-Samsung 860 evo (Samsung MJX)
-Samsung 870 evo (Samsung MKX) 
-WD Blue 3D (Marvell 88SS1074)
-WD Red 3D (Marvell 88SS1074) [WD BLUE 3D WITH MORE OP SPACE]
-
+### What if I don't have an m.2 slot? 2.5" SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
+  | Name                                      | Controller                             | Notes                            |
+  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | Crucial MX500                             | SM2258                                 | -------------------------------- |
+  | Team L5 lite 3D                           | SM2258                                 | -------------------------------- |
+  | Team T-force Vulcan                       | SM2258                                 | -------------------------------- |
+  | Adata SU800 ultimate                      | SM2258                                 | -------------------------------- |
+  | SK hynix S31 gold                         | SK Hynix Quartz                        | -------------------------------- |
+  | Seagate barracuda/firecuda 120            | Phison S12                             | -------------------------------- |
+  | Seagate ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE     |
+  | Samsung 860 evo                           | Samsung MJX                            | -------------------------------- |
+  | Samsung 870 evo                           | Samsung MKX                            | -------------------------------- |
+  | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
+  | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE    |
 
 ##Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
 

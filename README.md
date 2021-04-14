@@ -24,7 +24,7 @@ guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THA
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB                     |
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |
-  | Patriot P300                              | Phison E13T OR SM2263XT                | DRAMLESS+HMB                     |
+  | Patriot P300                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team MP33                                 | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team Cardea Zero Z330                     | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB                     |

@@ -95,12 +95,12 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
- | WD black SN850                            | WD in house                            | -------------------------------- |  
+ | WD Black SN850                            | WD in house                            | -------------------------------- |  
  | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
- | Intel optane 905P                         | INTEL 7 CHANNEL CONTROLLER TRADEMARK   | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
+ | Intel Optane 905P                         | INTEL 7 CHANNEL CONTROLLER TRADEMARK   | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
 
 
 # GAMEZOID OUT

@@ -68,7 +68,7 @@ The following guide is not writen by me (only formatted); however, I thought it 
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | -------------------------------- |
   | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
-  | Samsung 980 Evo                           | Samsung Pablo                          | DRAMLESS+HMB                     |
+  | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
 
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]

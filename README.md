@@ -13,24 +13,24 @@ The following guide is not writen by me (only formatted); however, I thought it 
 
 ### For --gamers-- and budget workstationproductivity applications.
 
-   Name                                       Controller                              Notes                            
+   Name                                      | Controller                            |  Notes                          |  
    -----------------------------------------  --------------------------------------  -------------------------------- 
-   WD Blue SN550                              WD in house                             DRAMLESS+HMB+EXTENDED SRAM       
-   WD Blue SN520                              WD in house                             DRAMLESS+EXTENDED SRAM, MOSTLY OEM     
-   WD Blue SN500                              WD in house                             DRAMLESS+EXTENDED SRAM, MOSTLY OEM        
-   Kingston A2000                             SM2263                                  --------------------------------                               
-   Crucial P1                                 SM2263                                  QLC                              
-   HP EX900                                   SM2263XT                                DRAMLESS+HMB                     
-   Mushkin Helix-L                            SM2263XT                                DRAMLESS+HMB                       
-   Silicon power P34A60                       SM2263XT                                DRAMLESS+HMB                     
-   Patriot P300                               SM2263XT OR Phison E13T                 DRAMLESS+HMB                     
-   Team MP33                                  SM2263XT OR Phison E13T                 DRAMLESS+HMB                     
-   Team Cardea Zero Z330                      SM2263XT OR Phison E13T                 DRAMLESS+HMB                     
-   Gigabyte NVME V2                           Phison E13T                             DRAMLESS+HMB                     
-   Corsair MP400                              Phison E12S                             QLC NAND                         
-   Inland Platinum                            Phison E12S                             QLC NAND                         
-   Sabrent Rocket-Q                           Phison E12S                             QLC NAND                         
-   Intel 660/665P                             SM2263                                  QLC NAND                         
+   WD Blue SN550                            |  WD in house                       |      DRAMLESS+HMB+EXTENDED SRAM       |
+   WD Blue SN520                             | WD in house                        |     DRAMLESS+EXTENDED SRAM, MOSTLY OEM |    
+   WD Blue SN500                             | WD in house                        |     DRAMLESS+EXTENDED SRAM, MOSTLY OEM  |      
+   Kingston A2000                          |   SM2263                             |     --------------------------------   |                            
+   Crucial P1                              |   SM2263                              |    QLC                              |
+   HP EX900                                |   SM2263XT                            |    DRAMLESS+HMB                     |
+   Mushkin Helix-L                        |    SM2263XT                            |    DRAMLESS+HMB                      | 
+   Silicon power P34A60                   |    SM2263XT                             |   DRAMLESS+HMB                     |
+   Patriot P300                           |    SM2263XT OR Phison E13T              |   DRAMLESS+HMB                     |
+   Team MP33                              |    SM2263XT OR Phison E13T              |   DRAMLESS+HMB                     |
+   Team Cardea Zero Z330                  |    SM2263XT OR Phison E13T               |  DRAMLESS+HMB                     |
+   Gigabyte NVME V2                       |    Phison E13T                           |  DRAMLESS+HMB                     |
+   Corsair MP400                          |    Phison E12S                          |   QLC NAND                         |
+   Inland Platinum                        |    Phison E12S                          |   QLC NAND                         |
+   Sabrent Rocket-Q                       |    Phison E12S                          |   QLC NAND                         |
+   Intel 660/665P                         |    SM2263                               |   QLC NAND                         |
   
   
   

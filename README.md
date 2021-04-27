@@ -15,8 +15,9 @@ The following guide is not writen by me (only formatted); however, I thought it 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
-  | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
-  | Kingston A2000                            | SM2663                                 | TLC                              |
+  | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
+  | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
+  | Kingston A2000                            | SM2663                                 | -------------------------------- |
   | Crucial P1                                | SM2263                                 | QLC                              |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB                     |
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  

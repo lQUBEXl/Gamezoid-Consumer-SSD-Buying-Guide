@@ -7,6 +7,7 @@ The following guide is not primarily writen by me; however, I thought it would b
 `ESTIMATED "SHOULD BE" PRICES ARE IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS BELOW guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE`
 
 `IF YOU ARE NOT FOLLOWING THESE INSTSTRUCTIONS YOU ARE NOT USING THE GUIDE PROPERLY!`
+`DRIVES ARE 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED!`
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
@@ -71,6 +72,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
+  | WD black SN750                            | WD in house                            | -------------------------------- |
 
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
 
@@ -81,13 +83,13 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
-  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |
-  | WD black SN750                            | WD in house                            | -------------------------------- |     
+  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |    
   | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  
   | Gigabyte Aorus Gen 4                      | Phison E16                             | -------------------------------- |  
-  | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |  
+  | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |
+  | ADATA S50 lite                            | Phison E16                             | -------------------------------- | 
 
 
 ## Ultra high end NVME drives [$160+ 1TB] [$300+ 2TB]
@@ -101,7 +103,8 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
- | Intel Optane 905P                         | INTEL 7 CHANNEL CONTROLLER TRADEMARK   | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
+ | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
+ | Intel Optane P5800x                       | Intel in house                         | AIC OR U.2 3DXPOINT, BIG PRICE TAG, BALLERS ONLY| 
 
 
 # GAMEZOID OUT

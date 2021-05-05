@@ -73,8 +73,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
-  | WD black SN750                            | WD in house                            | -------------------------------- |
-
+ 
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
@@ -86,6 +85,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |    
   | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |  
+  | WD black SN750                            | WD in house                            | weak in small random IO          |
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  
   | Gigabyte Aorus Gen 4                      | Phison E16                             | -------------------------------- |  

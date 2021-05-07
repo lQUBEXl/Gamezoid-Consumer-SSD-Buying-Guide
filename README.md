@@ -60,6 +60,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
   | HP EX920                                  | SM2262                                 | -------------------------------- |
   | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
+  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
@@ -85,7 +86,6 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |    
   | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |
-  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | WD black SN750                            | WD in house                            | weak in mixed random IO          |
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  

@@ -84,7 +84,8 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |    
-  | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |  
+  | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |
+  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | WD black SN750                            | WD in house                            | weak in mixed random IO          |
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  

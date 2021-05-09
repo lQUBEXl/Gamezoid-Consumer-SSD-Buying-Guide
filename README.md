@@ -7,7 +7,7 @@ The following guide is not primarily writen by me; however, I thought it would b
 `ESTIMATED "SHOULD BE" PRICES ARE IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS BELOW guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, DRIVES ARE IN NO PARTICULAR ORDER`
 
 `IF YOU ARE NOT FOLLOWING THESE INSTSTRUCTIONS YOU ARE NOT USING THE GUIDE PROPERLY!`
-`DRIVES ARE 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED!`
+`DRIVES ARE 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY`
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
@@ -16,11 +16,11 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
-  | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
-  | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
+  | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
+  | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Kingston A2000                            | SM2263                                 | -------------------------------- |
   | Crucial P1                                | SM2263                                 | QLC NAND                         |
-  | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB                     |
+  | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB, EOL                |
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |
   | Patriot P300                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
@@ -30,7 +30,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
   | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
-  | Intel 660/665P                            | SM2263                                 | QLC NAND                         |
+  | Intel 660/665P                            | SM2263                                 | QLC NAND, EOL                    |
   | Intel 670P                                | SM2265                                 | QLC NAND                         |
   
   
@@ -57,10 +57,10 @@ The following guide is not primarily writen by me; however, I thought it would b
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
-  | Intel 760P                                | SM2262                                 | -------------------------------- |
+  | Intel 760P                                | SM2262                                 | EOL                              |
   | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
-  | HP EX920                                  | SM2262                                 | -------------------------------- |
-  | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
+  | HP EX920                                  | SM2262                                 | EOL                              |
+  | Kingston KC2000                           | SM2262EN                               | EOL                              |
   | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
@@ -107,8 +107,8 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
- | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY  |
- | Intel Optane P5800x                       | Intel in house                         | AIC OR U.2 3DXPOINT, BIG PRICE TAG, BALLERS ONLY| 
+ | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL |
+ | Intel Optane P5800x                       | Intel in house                         | U.2, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE| 
 
 
 # GAMEZOID OUT

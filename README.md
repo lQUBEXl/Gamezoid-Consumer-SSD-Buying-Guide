@@ -72,7 +72,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | -------------------------------- |
-  | Samsung 970 Evo                           | Samsung Phoenix                        | -------------------------------- |
+  | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
  

@@ -26,7 +26,7 @@ The following guide is not primarily writen by me; however, I thought it would b
   | Patriot P300                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team MP33                                 | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team Cardea Zero Z330                     | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
-  | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB                     |
+  | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB, EOL                |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
   | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |

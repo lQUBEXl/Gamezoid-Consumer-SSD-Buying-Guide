@@ -1,6 +1,6 @@
 # Gamezoid-Consumer-SSD-Buying-Guide
 
-The following guide is not primarily writen by me; however, I thought it would be great to be able to dimmsentated online since Gamezoid and I make regular SSD suggestions:
+The following guide is not primarily writen by me; however, I thought it would be great to be able to disseminated online since Gamezoid and I make regular SSD suggestions:
 
 `GAMEZOID HERE`
 

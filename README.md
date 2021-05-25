@@ -85,7 +85,7 @@ https://www.techpowerup.com/review/?category=SSD
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
 
-NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category
+NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category, they are not recommended for applications which depend on sustained workload for performance.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |

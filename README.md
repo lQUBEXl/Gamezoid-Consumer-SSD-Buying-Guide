@@ -67,7 +67,6 @@ https://www.techpowerup.com/review/?category=SSD
   | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
-  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
@@ -90,9 +89,10 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | 128L 4D NAND MEME                | 
-  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | 128L 4D NAND MEME                |    
+  | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
+  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |
+  | Kingston KC2500                           | SM2262EN                               | self encrypting                  |
   | WD black SN750                            | WD in house                            | weak in mixed random IO          |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  

@@ -50,11 +50,11 @@ https://www.techpowerup.com/review/?category=SSD
   | Adata SU800 Ultimate                      | SM2258                                 | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
-  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE     |
+  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE     |
   | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
-  | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE    |
+  | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE    |
 
 ## Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
 

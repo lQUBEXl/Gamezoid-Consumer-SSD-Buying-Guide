@@ -17,7 +17,7 @@ https://www.techpowerup.com/review/?category=SSD
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
-### For -->gamers<-- and budget workstation/productivity applications.
+### For -->gamers<-- acceptable for budget workstation/productivity applications.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |

@@ -26,6 +26,7 @@ https://www.techpowerup.com/review/?category=SSD
   | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Kingston A2000                            | SM2263                                 | -------------------------------- |
   | Crucial P1                                | SM2263                                 | QLC NAND                         |
+  | HP EX900 pro                              | SM2263                                 | -------------------------------- |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB, EOL                |
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |

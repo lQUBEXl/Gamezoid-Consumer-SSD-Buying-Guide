@@ -80,7 +80,7 @@ https://www.techpowerup.com/review/?category=SSD
   | Inland Premium                            | Phison E12                             | -------------------------------- |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
-  | Crucial P5                                | Micron in house                        | -------------------------------- |
+  | Crucial P5                                | Micron in house                        | EOL                              |
  
 ## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
 

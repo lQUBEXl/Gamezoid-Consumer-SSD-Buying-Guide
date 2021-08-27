@@ -114,7 +114,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
- | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL |
+ | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, SLOW BURST SEQUENTIAL |
  | Intel Optane P5800x                       | Intel in house                         | U.2, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE| 
 
 

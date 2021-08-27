@@ -24,7 +24,7 @@ https://www.techpowerup.com/review/?category=SSD
   | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM, 1TB SUSTAINED SEQUENTIAL SLOWER THAN REVIEWS|
   | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
-  | Kingston A2000                            | SM2263                                 | -------------------------------- |
+  | Kingston A2000                            | SM2263                                 | faster after firmware update     |
   | Crucial P1                                | SM2263                                 | QLC NAND                         |
   | HP EX900 pro                              | SM2263                                 | -------------------------------- |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB, EOL                |
@@ -65,7 +65,7 @@ https://www.techpowerup.com/review/?category=SSD
   | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
+  | Silicon Power P34A80                      | SM2262                                 | weird chinese nand flash         |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
   | Mushkin Pilot-E                           | SM2262EN                               | self encryption support          |

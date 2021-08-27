@@ -21,7 +21,7 @@ https://www.techpowerup.com/review/?category=SSD
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM       |
+  | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM, 1TB sustained sequential slower than reviews|
   | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Kingston A2000                            | SM2263                                 | -------------------------------- |

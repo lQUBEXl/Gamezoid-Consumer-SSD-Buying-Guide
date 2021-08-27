@@ -21,7 +21,7 @@ https://www.techpowerup.com/review/?category=SSD
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM, 1TB sustained sequential slower than reviews|
+  | WD Blue SN550                             | WD in house [MOSTLY OEM]               | DRAMLESS+HMB+EXTENDED SRAM, 1TB SUSTAINED SEQUENTIAL SLOWER THAN REVIEWS|
   | WD Blue SN520                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house [MOSTLY OEM]               | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Kingston A2000                            | SM2263                                 | -------------------------------- |
@@ -92,7 +92,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
-  | Samsung 970 Evo Plus                      | Samsung phoenix                        | -------------------------------- |
+  | Samsung 970 Evo Plus                      | Samsung phoenix (POSSIBLE SWITCH TO ELPIS)| -------------------------------- |
   | Kingston KC2500                           | SM2262EN                               | self encrypting                  |
   | WD black SN750                            | WD in house                            | weak in mixed random IO          |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  

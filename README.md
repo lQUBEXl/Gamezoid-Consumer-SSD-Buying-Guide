@@ -1,4 +1,4 @@
-# Gamezoid-Consumer-SSD-Buying-Guide
+# Gamezoid-Consumer-SSD-Buying-Guide/Tier list
 
 The following guide is not primarily writen by me; however, I thought it would be great to be able to disseminated online since Gamezoid and I make regular SSD suggestions:
 
@@ -14,8 +14,9 @@ PERFORMANCE METRICS MATTER FOR YOUR USE AS IT IS ONLY DESIGNED FOR BASIC REFEREN
 https://www.tomshardware.com/author/sean-webster
 https://www.storagereview.com/
 https://www.techpowerup.com/review/?category=SSD
-Here is a list which should show the cheapest available 1TB in each category
-https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL
+
+Here is a list which should show the cheapest available 1TB in each category (Thank you to SLOWaf)
+https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL 
 
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 

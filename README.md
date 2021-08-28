@@ -77,7 +77,6 @@ https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
   | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
   | Team MP34                                 | Phison E12                             | -------------------------------- |
-  | PNY CS3030                                | Phison E12                             | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | -------------------------------- |

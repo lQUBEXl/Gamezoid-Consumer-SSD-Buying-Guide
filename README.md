@@ -18,6 +18,8 @@ https://www.techpowerup.com/review/?category=SSD
 Here is a list which should show the cheapest available 1TB in each category, remember to select correct region. (Thank you to SLOWaf)
 https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL 
 
+If you have more questions or want to contribute to gamezoid, our discord server is here https://discord.gg/CvKjxyGaph
+
 ## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
 ### For -->gamers<-- acceptable for budget workstation/productivity applications.

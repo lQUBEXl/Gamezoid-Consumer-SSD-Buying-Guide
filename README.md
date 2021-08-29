@@ -1,4 +1,4 @@
-# Gamezoid-Consumer-SSD-Buying-Guide/Tier list
+# Gamezoid-Consumer-SSD-Buying-Guide/Tier list. THIS VERSION OF THE GUIDE IS NO LONGER MAINTAINED, IT HAS BEEN MOVED TO: https://github.com/WindShields/Gamezoid-SSD-buying-guide/blob/main/README.md
 
 The following guide is not primarily writen by me; however, I thought it would be great to be able to disseminated online since Gamezoid and I make regular SSD suggestions:
 
